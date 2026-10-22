@@ -1,0 +1,43 @@
+{
+  "name": "updated-supabase-auth",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@hookform/resolvers": "^3.3.4",
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.49.4",
+    "chromedriver": "^135.0.3",
+    "cookie": "^1.0.2",
+    "cookie-parser": "^1.4.7",
+    "mdb-react-ui-kit": "^9.0.0",
+    "next": "^14.2.26",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.51.0",
+    "react-image-crop": "^11.0.10",
+    "react-social-login-buttons": "^4.1.1",
+    "react-toastify": "^11.0.5",
+    "selenium-webdriver": "^4.31.0",
+    "supabase": "^2.23.4",
+    "vnpay": "^2.2.0",
+    "zod": "^3.24.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "cypress": "^14.4.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
